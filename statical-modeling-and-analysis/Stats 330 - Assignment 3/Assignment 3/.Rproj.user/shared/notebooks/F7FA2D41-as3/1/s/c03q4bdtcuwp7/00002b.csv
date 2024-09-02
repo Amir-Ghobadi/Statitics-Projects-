@@ -1,0 +1,2 @@
+"0","legend('topright', lty=1,lwd=3, col=c(""blue"", ""red"",""orange"") ,"
+"0","legend=c(""gam"", ""null"",""linear""))"

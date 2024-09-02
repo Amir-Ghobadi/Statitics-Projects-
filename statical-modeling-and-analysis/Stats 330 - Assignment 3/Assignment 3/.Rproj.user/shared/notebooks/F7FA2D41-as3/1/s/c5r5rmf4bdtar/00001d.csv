@@ -1,0 +1,8 @@
+"0",""
+"0","n <- length(ns)  "
+"0","p <- 3  "
+"0","df <- n - p"
+"0",""
+"0","dvs <- sort(devs)"
+"0","lines(dvs, dchisq(dvs, df), col = ""blue"")"
+"0",""

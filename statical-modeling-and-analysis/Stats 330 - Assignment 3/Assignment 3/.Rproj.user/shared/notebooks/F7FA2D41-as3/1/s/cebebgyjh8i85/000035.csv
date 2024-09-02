@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dnorm(x, mean = mean(xpeaks, na.rm = TRUE), sd = sd(xpeaks, na.rm = TRUE)), add = TRUE, col = ""red"", lwd = 2)"

@@ -1,0 +1,1 @@
+"0","hist(xpeaks, breaks = 30, freq = FALSE, main = ""Histogram of xpeaks with Normal Curve Overlay"", xlab = ""xpeaks"", col = ""light blue"")"

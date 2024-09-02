@@ -1,0 +1,4 @@
+"0","caffs=seq(0, 500, by=1)"
+"0","new.df=data.frame(caffeine=caffs)"
+"0","p.quad=predict(mod.quad, newdata=new.df,type=""response"")"
+"0","lines(caffs, p.quad, col=""blue"")"

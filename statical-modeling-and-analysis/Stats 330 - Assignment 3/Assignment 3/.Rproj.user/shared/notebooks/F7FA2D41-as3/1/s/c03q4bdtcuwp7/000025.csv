@@ -1,0 +1,5 @@
+"0","# add lines"
+"0","caffs=seq(0, 500, by=1)"
+"0","new.df=data.frame(caffeine=caffs)"
+"0","p.gam=predict(mod.gam, newdata=new.df,type=""response"")"
+"0","lines(caffs, p.gam, col=""blue"")"

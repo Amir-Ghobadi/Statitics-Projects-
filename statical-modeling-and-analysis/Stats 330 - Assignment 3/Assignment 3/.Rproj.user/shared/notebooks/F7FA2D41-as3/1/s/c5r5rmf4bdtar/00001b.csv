@@ -1,0 +1,2 @@
+"0",""
+"0","hist(devs, breaks = 100, prob = TRUE, main = ""Histogram of Deviances with Chi-squared Fit"", xlab = ""Deviances"")"

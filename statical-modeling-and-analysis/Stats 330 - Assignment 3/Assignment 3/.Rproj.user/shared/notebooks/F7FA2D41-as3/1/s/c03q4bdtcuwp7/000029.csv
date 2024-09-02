@@ -1,0 +1,2 @@
+"0","p1=predict(mod.1, newdata=new.df, type=""response"")"
+"0","lines(caffs, p1, col=""orange"")"
